@@ -1,6 +1,6 @@
 {
   "name": "mortctl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Mortgage underwriting calculations and eligibility - part of the LendCtl Suite",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
