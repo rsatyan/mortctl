@@ -1,0 +1,14 @@
+node_modules/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+AGENTS.md
+PROMPT.md
+IMPLEMENTATION_PLAN.md
+IMPLEMENTATION_COMPLETE.md
+DEMO.sh
+specs/
+*.local.*
